@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zhang Yichuang,Welcome to my Github home page. I am a computer major student from Xi'an, China. I hope my technology can help you</h1>
+<h1 align="center">Hi 👋, I'm Zhang Yichuang</h1>
 <h3 align="center">I am keen on listening to music, cooking and reading, and I also like to accompany music when programming. I fervently hope that my technology can bring people the convenience of science and technology, as a famous saying that I like very much said: "so that everyone can enjoy the fun of technology."</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalala2726" alt="lalala2726" /></a> </p>
 
 - 🔭 I’m currently working on **smart city**
 
 - 🌱 I’m currently learning **SpringCloud**
+
+- 👨‍💻 All of my projects are available at [https://zhangchuangla.cn/project](https://zhangchuangla.cn/project)
 
 - 📝 I regularly write articles on [https://zhangchuangla.cn/](https://zhangchuangla.cn/)
 
