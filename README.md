@@ -5,13 +5,4 @@
 <p>除了后端技术，我也稍微会一些前端开发，能够独立完成一些简单的前端任务。</p>
 <p>如果您对我的工作有任何问题，欢迎与我联系！</p>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-<a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP"  alt=""/>
-</a>
-
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA"  alt=""/>
-</a>
-
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
